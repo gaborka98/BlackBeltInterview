@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.blackbeltspring"},{"l":"com.example.blackbeltspring.controller"},{"l":"com.example.blackbeltspring.model"},{"l":"com.example.blackbeltspring.service"}]
